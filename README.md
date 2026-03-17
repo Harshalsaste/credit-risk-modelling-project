@@ -41,9 +41,13 @@ LightGBM performed the best with ROC-AUC of 0.85.
 * Loan-Income Ratio strongly impacts default risk
 * Applicants with low income per dependent are riskier
 
+
+
 #Business Impact:
 * Banks can identify high-risk customers early
-* Helps in reducing loan de
+* Helps in reducing loan defaults
+* Enables better credit decision making
+
 
 Tech Stack:
 Python, Scikit-learn, LightGBM
@@ -58,5 +62,3 @@ Harshal Saste
 
 
 
-faults
-* Enables better credit decision making
