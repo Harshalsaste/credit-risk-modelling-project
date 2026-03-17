@@ -1,4 +1,4 @@
-project name - Loan Default Prediction 
+Project name - Loan Default Prediction 
 
 Problem statement:
 Predict probability of borrower default.
